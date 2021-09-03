@@ -17,6 +17,8 @@ More deployment text
 
 ## How To Contribute
 
+Please fork this repo and then issue PR for review
+
 Sample website with plenty of files for demos
 
 2014.Git
